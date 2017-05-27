@@ -1,10 +1,12 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Вычисляем корни квадратичного уравнения
 
 # How to Use
 
-[TODO]
+a,b = get_roots(N, M, K) где N,M,K целые числа
+
+a,b - корни квадратичного уровнения
 
 # How to Launch Tests
 
